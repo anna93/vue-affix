@@ -1,0 +1,24 @@
+{
+  "name": "vue-affix",
+  "version": "1.0.0",
+  "description": "Vue directive to affix elements on scroll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anna93/vue-affix.git"
+  },
+  "keywords": [
+    "Vue",
+    "directive",
+    "affix"
+  ],
+  "author": "shekharanna1993@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anna93/vue-affix/issues"
+  },
+  "homepage": "https://github.com/anna93/vue-affix#readme"
+}
